@@ -19,7 +19,7 @@ const Footer = (props) => (
                 <dt>Phone</dt>
                 <dd><a href="tel:+63-917-741-7940">+63 (917) 741 7940</a></dd>
                 <dt>Email</dt>
-                <dd><a href="#">asalano@up.edu.ph</a></dd>
+                <dd><a href="mailto:asalano@up.edu.ph">asalano@up.edu.ph</a></dd>
             </dl>
             <ul className="icons">
                 <li><a href="https://github.com/afsa21" className="icon fa-github alt"><span className="label">GitHub</span></a></li>
